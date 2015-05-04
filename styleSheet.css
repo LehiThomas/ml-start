@@ -1,0 +1,20 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    background-color: lightgray;
+}
+
+#myTable {
+    text-align: center;
+    margin-left: 5%;
+}
+ .message {
+     margin-left: 5%;
+ }
+
